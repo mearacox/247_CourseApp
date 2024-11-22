@@ -1,0 +1,59 @@
+.root{
+    -fx-font-size: 16pt;
+    -fx-font-family: "Helvetica";
+    -fx-background: #cccccc;
+}
+
+.button { 
+    -fx-background-color: #73000A;
+    -fx-text-fill: white;
+}
+.button2 {
+    -fx-background-color: white;
+    -fx-text-fill: #73000A;
+}
+.signin_page{
+    -fx-background-image:url("imgs/horseshoeImage.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: contain;
+}
+.signup_page{
+    -fx-background-image:url("imgs/horseshoeImage.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: contain;
+}
+.singin_box {
+    -fx-background-color: white; 
+}
+.text_Color {
+    -fx-text-fill: #73000A;
+}
+.menu-bar {
+    -fx-background-color: #73000A;
+    -fx-accent: #3b0005;
+}
+
+.menu:hover {
+    -fx-background-color: #3b0005;
+}
+.menu-bar .menu .label {
+    -fx-text-fill: white;
+}
+.menu-item {
+    -fx-background-color: #73000A;
+    -fx-text-fill: white;
+}
+
+.whiteText {
+    -fx-text-fill: white;
+}
+
+.menu-item:hover {
+    -fx-background-color: #3b0005;
+}
+.text-field {
+    -fx-background-color: white;
+    -fx-text-fill: #333;
+    -fx-border-color: #73000A;
+    -fx-border-radius: 5;
+}
